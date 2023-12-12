@@ -2,3 +2,12 @@ __pycache__/
 *.py[cdo]
 *$py.class
 .DS_Store
+
+# IDE
+.idea/
+
+# virtualenv
+.venv/
+
+# sqlite
+db.sqlite3
